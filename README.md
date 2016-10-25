@@ -53,10 +53,6 @@ Please note that this is not our complete Terms of Service. You can read our ful
 
 Read more here for full information regarding our terms of service and privacy policy.
 
-![Entity-relationship diagram][erd]
+![image 6](https://cloud.githubusercontent.com/assets/23058919/19698031/8c2530da-9aa2-11e6-90cf-da7a9b8812e3.png)
 
-[erd]: https://cdn.rawgit.com/sferik/twitter/master/etc/erd.svg "Entity-relationship diagram"
-
-This entity-relationship diagram is generated programatically. If you add or
-remove any Twitter objects, please regenerate the ERD with the following
-command:
+etsdtsdf
