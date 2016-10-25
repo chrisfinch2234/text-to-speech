@@ -22,20 +22,24 @@ Our API allows you to connect to our online server and take full advantage of ou
 Our API is only accessible through our website. When you sign-up for our Web Service you will be able to request sentences from whichever programing language you are using. Both JAVA and XML are among favorites and you will simply create a sentence and from there you will wait until our server sends back a link in which you can copy and paste it into your browser and save onto your computer for immediate use.  
 
 ![image 6](https://cloud.githubusercontent.com/assets/23058919/19695386/e2c8b0b6-9a97-11e6-8103-ba5314f21d3c.png)
-(Above is what is shown when you request a conversion from NeoSpeech server.)
+
+Above is what is shown when you request a conversion from NeoSpeech server
 
 ![image 7](https://cloud.githubusercontent.com/assets/23058919/19695390/e58b2acc-9a97-11e6-90ee-a8aaae2dfcfb.png)
-(Above shows what your XML editor will look like when the NeoSpeech server successfully send you back a conversion including the download link.)
+
+Above shows what your XML editor will look like when the NeoSpeech server successfully send you back a conversion including the download link
 
 ![image 8](https://cloud.githubusercontent.com/assets/23058919/19695411/04a4dd36-9a98-11e6-8cd3-b476683f0ee5.png)
-(Above is what will be shown when you input the URL link in your browser that you receive from NeoSpeech server that can be saved onto your computer.)
+
+Above is what will be shown when you input the URL link in your browser that you receive from NeoSpeech server that can be saved onto your computer
 
 #How to sign up:
 
 To sign up for our web based API fill out the NeoSpeech sign-up form. After signing up you will then be directed to the “NeoSpeech Dashboard”. From there it is as easy as clicking “Add Web Service”, this will let you choose the plan that is best for you and give you access to our web based API immediately.
 
 ![capture](https://cloud.githubusercontent.com/assets/23058919/19695427/15a9be8a-9a98-11e6-8e47-fbfd1148e964.PNG)
-(Image above is what is shown when you first login to your “NeoSpeech Account”.)
+
+Image above is what is shown when you first login to your “NeoSpeech Account”
 
 Have any further questions? Email or call our technical support staff at support@neospeech.com or by phone at (408) 214-3846.
 
