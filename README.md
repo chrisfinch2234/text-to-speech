@@ -52,3 +52,11 @@ Please note that this is not our complete Terms of Service. You can read our ful
 6) PRIVACY POLICY. NeoSpeech may collect information about the use of the NS TTS Online Services, including the information identified in NeoSpeech's NS TTS Online Services privacy policy, subject to the additional conditions and limitations described in the privacy policy. For more information, please see the full NeoSpeech NS TTS Online Services privacy policy linked at the bottom of each page of NS TTS Online Services website.
 
 Read more here for full information regarding our terms of service and privacy policy.
+
+![Entity-relationship diagram][erd]
+
+[erd]: https://cdn.rawgit.com/sferik/twitter/master/etc/erd.svg "Entity-relationship diagram"
+
+This entity-relationship diagram is generated programatically. If you add or
+remove any Twitter objects, please regenerate the ERD with the following
+command:
