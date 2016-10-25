@@ -1,3 +1,5 @@
+#About NeoSpeech
+
 NeoSpeech is a worldwide leader in the text-to-speech (TTS) industry. NeoSpeech was founded over a decade ago by two PhD speech engineers who were dissatisfied by how poor the quality was in speech synthesizers. Seeing no other alternatives, they created NeoSpeech, a TTS provider which provides natural sounding voices that rival human speech.
 
 
@@ -6,14 +8,14 @@ NeoSpeech is located in Santa Clara, California with more than 1,000 enterprise 
 
 Our team is held together through a passion within the text-to-speech industry and always making sure that we maintain the highest quality voices for our customers. Yearly we are improving our language selection at a fast pace without sacrificing performance or sound quality.
 
-What we do as a TTS Provider:
+#What we do as a TTS Provider:
 
 We provide TTS solutions that enable developers to build custom speech-enabled products. Our versatile SDKs make it easy to build anything from a screen reading app to an IVR call center solution.
 
 
 We also offer a cloud-based TTS solution called Web Service. Web Service is a SOAP and REST capable TTS solution that allows developers to build applications and websites that can connect to our online server. Once connected, our server will convert all TTS requests from your end-users and send back the audio files instantly.
 
-What our API does and how it works
+#What our API does and how it works
 
 Our API allows you to connect to our online server and take full advantage of our Web Service solution.
 
@@ -28,7 +30,7 @@ Picture
 Picture
 (Above is what will be shown when you input the URL link in your browser that you receive from NeoSpeech server that can be saved onto your computer.)
 
-How to sign up:
+#How to sign up:
 
 To sign up for our web based API fill out the NeoSpeech sign-up form. After signing up you will then be directed to the “NeoSpeech Dashboard”. From there it is as easy as clicking “Add Web Service”, this will let you choose the plan that is best for you and give you access to our web based API immediately.
 
@@ -37,7 +39,7 @@ Picture
 
 Have any further questions? Email or call our technical support staff at support@neospeech.com or by phone at (408) 214-3846.
 
-Terms of service and privacy policy: 
+#Terms of service and privacy policy: 
 
 Please note that this is not our complete Terms of Service. You can read our full Terms of Service here.
 
