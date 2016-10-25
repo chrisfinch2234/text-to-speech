@@ -23,15 +23,15 @@ Our API is only accessible through our website. When you sign-up for our Web Ser
 
 ![image 6](https://cloud.githubusercontent.com/assets/23058919/19695386/e2c8b0b6-9a97-11e6-8103-ba5314f21d3c.png)
 
-Above is what is shown when you request a conversion from NeoSpeech server
+(Above is what is shown when you request a conversion from NeoSpeech server.)
 
 ![image 7](https://cloud.githubusercontent.com/assets/23058919/19695390/e58b2acc-9a97-11e6-90ee-a8aaae2dfcfb.png)
 
-###Above shows what your XML editor will look like when the NeoSpeech server successfully send you back a conversion including the download link
+(Above shows what your XML editor will look like when the NeoSpeech server successfully send you back a conversion including the download link.)
 
 ![image 8](https://cloud.githubusercontent.com/assets/23058919/19695411/04a4dd36-9a98-11e6-8cd3-b476683f0ee5.png)
 
-Above is what will be shown when you input the URL link in your browser that you receive from NeoSpeech server that can be saved onto your computer
+(Above is what will be shown when you input the URL link in your browser that you receive from NeoSpeech server that can be saved onto your computer.)
 
 #How to sign up:
 
@@ -39,7 +39,7 @@ To sign up for our web based API fill out the [NeoSpeech sign-up form](https://w
 
 ![capture](https://cloud.githubusercontent.com/assets/23058919/19695427/15a9be8a-9a98-11e6-8e47-fbfd1148e964.PNG)
 
-Image above is what is shown when you first login to your “NeoSpeech Account”
+(Image above is what is shown when you first login to your “NeoSpeech Account”.)
 
 Have any further questions? Email or call our technical support staff at support@neospeech.com or by phone at (408) 214-3846.
 
