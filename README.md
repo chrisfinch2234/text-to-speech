@@ -18,3 +18,5 @@ What our API does and how it works
 Our API allows you to connect to our online server and take full advantage of our Web Service solution.
 
 Our API is only accessible through our website. When you sign-up for our Web Service you will be able to request sentences from whichever programing language you are using. Both JAVA and XML are among favorites and you will simply create a sentence and from there you will wait until our server sends back a link in which you can copy and paste it into your browser and save onto your computer for immediate use.  
+
+http://jkn/
