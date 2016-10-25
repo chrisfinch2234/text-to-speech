@@ -35,7 +35,7 @@ Above is what will be shown when you input the URL link in your browser that you
 
 #How to sign up:
 
-To sign up for our web based API fill out the NeoSpeech sign-up form. After signing up you will then be directed to the “NeoSpeech Dashboard”. From there it is as easy as clicking “Add Web Service”, this will let you choose the plan that is best for you and give you access to our web based API immediately.
+To sign up for our web based API fill out the [NeoSpeech sign-up form](https://www.neospeech.com/account/signup). After signing up you will then be directed to the “NeoSpeech Dashboard”. From there it is as easy as clicking “Add Web Service”, this will let you choose the plan that is best for you and give you access to our web based API immediately.
 
 ![capture](https://cloud.githubusercontent.com/assets/23058919/19695427/15a9be8a-9a98-11e6-8e47-fbfd1148e964.PNG)
 
