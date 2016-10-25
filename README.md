@@ -45,7 +45,7 @@ Have any further questions? Email or call our technical support staff at support
 
 #Terms of service and privacy policy: 
 
-Please note that this is not our complete Terms of Service. You can read our full Terms of Service here.
+Please note that this is not our complete Terms of Service. You can read our full Terms of Service [here](http://neospeech.com/terms-of-service).
 
 (2) FREE SERVICES. The use of the NS TTS Online Services at no charge ("Free Services") is subject to the following terms and additional limitations:
 
